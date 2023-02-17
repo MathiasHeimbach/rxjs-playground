@@ -42,7 +42,6 @@ fromEvent(target, 'mousedown')
 
 
 // Animated Dot Trail
-
 import {
   defer,
   animationFrames,
